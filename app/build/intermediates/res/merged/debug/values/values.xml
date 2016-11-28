@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="arrow_color">#EE00EE</color>
+    <color name="error_arrow_color">#87CEFF</color>
+    <color name="error_inner_color">#AEEEEE</color>
+    <color name="error_line_color">#4169E1</color>
+    <color name="error_outer_color">#FF33</color>
+    <color name="inner_color">#DD777777</color>
+    <color name="line_color">#EE7AE9</color>
+    <color name="outer_color">#EED9D9D9</color>
+    <color name="selected_inner_color">#EEAEEE</color>
+    <color name="selected_outer_color">#CCFFCC12</color>
+    <color name="transparent">#00000000</color>
+    <declare-styleable name="CustomTheme"><attr format="reference" name="gifViewStyle"/></declare-styleable>
+    <declare-styleable name="GifView"><attr format="reference" name="gif"/><attr format="boolean" name="paused"/></declare-styleable>
+    <declare-styleable name="LockPattern"><attr format="integer" name="password_min_length"/><attr format="integer" name="password_max_length"/><attr format="reference" name="inner_color"/><attr format="reference" name="outer_color"/><attr format="reference" name="selected_inner_color"/><attr format="reference" name="selected_outer_color"/><attr format="reference" name="error_inner_color"/><attr format="reference" name="error_outer_color"/><attr format="reference" name="line_color"/><attr format="reference" name="error_line_color"/><attr format="reference" name="arrow_color"/><attr format="reference" name="error_arrow_color"/><attr format="boolean" name="draw_arrow"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_id">5704a0fb</string>
+    <string name="app_name">WHO AM I</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="footeer_str">请开始验证密码</string>
+    <string name="footer_str">请制定完成后点击确认</string>
+    <string name="header_str">请输入密码</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="title_activity_login">Sign in</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="textStyle">
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\4\FaceDemo11\app\libs\fastjson.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94d4ebd4acdaf01d7445435382eea2d2d38e7534">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\fastjson_4c57575fddcd32900df5286d25d6b2577182ce09.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\okio-1.6.0-leancloud.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7086c00a30a6de0ee3b963ec2c3702d37f1de11d">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\okio-1.6.0-leancloud_68c0b6861d7f717c532ea21fab3c519863e11dfc.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\avoscloud-feedback-v3.13.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="63b6c7f4ee3845d8d0a04a6a3be33523fcf2374a">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\avoscloud-feedback-v3.13.7_d783da8719c2f5f27409990d6818ecd88e0e9c70.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\AndroidEasingFunctions-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ae609e93bcbe4988aa371ab615b7abb43e9399bf">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\AndroidEasingFunctions-1.0.0_fe9c5d62ebb7f72763fbbd97d130f9d4561ce532.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\Msc.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="33160f40f8982dcdd6990acdad317d83fefba2c5">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\Msc_819c22747ad9be7c8aa9c7f791b23e8623130b87.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\avoscloud-sdk-v3.13.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="07090cf8399a1c4a7cb275e026ae37c6178e2bdf">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\avoscloud-sdk-v3.13.7_8be0ee9296d62accdf35a04c011ddfcc0f867426.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\AndroidViewAnimations-1.1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d8db345547f7a025130d1622f2608ec68e761641">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\AndroidViewAnimations-1.1.3_1d6e03155f60975a90c5f7c205aa749979450acc.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\httpmime-4.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dba4d4d224e2ca872af5be8d2992777583145478">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\httpmime-4.2.4_9036dffd4a1c3542a32636b5f04f1ea4a030432d.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\avoscloud-search-v3.13.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="139e4f4867d0d7384abf4e28a032c2ba97d25484">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\avoscloud-search-v3.13.7_a987f44a7ee575ca45463df90b0a4b4af289b58b.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\NineOldAndroid-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\NineOldAndroid-2.4.0_457f3250dad5e183e785d3470a97be398f88266e.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\avoscloud-sns-v3.13.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="971e6f625bfb047b0825f8d8777a2bde4fa754c4">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\avoscloud-sns-v3.13.7_9dc496473b4ae854511197a55415ca2c35697824.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\protobuf-java-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\protobuf-java-2.6.1_3cc7291b1ee98098b07da9f0f0c0cca8bcab59eb.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\avoscloud-statistics-v3.13.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2a58957104d69d36a556a57f687ebf9c23553735">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\avoscloud-statistics-v3.13.7_19d7e56855f069b1d85007ca00d330b6a0eae5fd.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\Java-WebSocket-1.3.1-leancloud.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b2e07c7789af93de587a1d0c9441fb0e74fd16e0">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.1-leancloud_a7cd4cca50cd5a3f50c3e1fff0e13f975119015c.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\okhttp-2.6.0-leancloud.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\okhttp-2.6.0-leancloud_6e46cac99b81fc4576ffb81e088922502f2a5b07.jar" />
+    </item>
+    <item
+        jar="D:\4\FaceDemo11\app\libs\avoscloud-push-v3.13.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7f59ed2400f85ff011a4dd1286df7b1a2290596a">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\avoscloud-push-v3.13.7_e363c09e00594cd16ec39953af61bbb4c1b4b0c3.jar" />
+    </item>
+    <item
+        jar="D:\androidsdk\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\4\FaceDemo11\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f7ec68e74aad332219b20603569350d4bd575c36.jar" />
+    </item>
+
+</items>

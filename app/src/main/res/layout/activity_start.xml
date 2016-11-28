@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/beijing5">
+
+    <RelativeLayout
+        android:id="@+id/login_div"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/logoiv"
+            android:layout_marginTop="70dip"
+            android:layout_marginLeft="100dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo2" />
+
+        <Button
+            android:id="@+id/add_button"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:textSize="18sp"
+            android:layout_marginTop="40dip"
+            android:textColor="#fff"
+            android:layout_marginLeft="80dp"
+            android:background="@drawable/start1_"
+            android:layout_below="@+id/logoiv" />
+
+        <Button android:id="@+id/login_button"
+            android:layout_width="200dp"
+            android:layout_height="50dip"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_marginTop="40dip"
+            android:background="@drawable/start2_"
+            android:layout_below="@+id/add_button"
+            android:layout_marginLeft="80dp" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/wenzizi"
+        android:background="@drawable/wenzizi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true" />
+
+</RelativeLayout>

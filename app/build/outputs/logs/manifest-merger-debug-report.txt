@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.CAMERA
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:18:22-76
+uses-feature#android.hardware.camera
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:20:5-60
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:20:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:21:19-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:27:5-71
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:27:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:28:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:29:5-72
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:29:22-69
+application
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:31:5-64:19
+	android:label
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:35:9-41
+	android:allowBackup
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:34:9-38
+	android:theme
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:36:9-40
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:32:9-34
+activity#com.iflytek.facedemo.MainActivity
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:37:9-47:20
+	android:screenOrientation
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:38:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:45:27-74
+activity#com.iflytek.facedemo.main.FaceDemo
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:48:9-52:52
+	android:screenOrientation
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:50:13-45
+	android:launchMode
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:51:13-43
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:49:13-42
+activity#com.iflytek.facedemo.main.IsvDemo
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:53:9-57:52
+	android:screenOrientation
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:55:13-45
+	android:launchMode
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:56:13-43
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:54:13-41
+activity#com.iflytek.facedemo.register
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:58:9-46
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:58:19-43
+activity#com.iflytek.facedemo.start
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:59:9-43
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:59:19-40
+activity#com.iflytek.facedemo.WelcomeActivity
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:60:9-53
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:60:19-50
+activity#com.iflytek.facedemo.main.makesp
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:61:9-49
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:61:19-46
+activity#com.iflytek.facedemo.main.yanzhengsp
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:62:9-53
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:62:19-50
+activity#com.iflytek.facedemo.passaty
+ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:63:9-45
+	android:name
+		ADDED from D:\4\FaceDemo11\app\src\main\AndroidManifest.xml:63:19-42

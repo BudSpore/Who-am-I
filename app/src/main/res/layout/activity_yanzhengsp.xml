@@ -1,0 +1,59 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    xmlns:lockpattern="http://schemas.android.com/apk/res/com.iflytek.facedemo"
+    android:background="@drawable/beijing3"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:text="@string/header_str"
+        android:textColor="@android:color/white"
+        android:textSize="23sp" />
+
+    <com.iflytek.facedemo.view.LockPattern
+        android:id="@+id/lockPattern9"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="200"
+        lockpattern:arrow_color="@color/arrow_color"
+        lockpattern:draw_arrow="true"
+        lockpattern:error_arrow_color="@color/error_arrow_color"
+        lockpattern:error_inner_color="@color/error_inner_color"
+        lockpattern:error_line_color="@color/error_line_color"
+        lockpattern:error_outer_color="@color/error_outer_color"
+        lockpattern:inner_color="@android:color/white"
+        lockpattern:line_color="@color/line_color"
+        lockpattern:outer_color="@color/outer_color"
+        lockpattern:password_min_length="4"
+        lockpattern:selected_inner_color="@color/selected_inner_color"
+        lockpattern:selected_outer_color="@color/selected_outer_color" />
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:text="@string/footeer_str"
+        android:textColor="@android:color/white"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/yanzheng_bt"
+        android:layout_width="105dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dip"
+        android:background="@drawable/zhuce"
+        android:visibility="invisible"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/beijing5"
+    tools:context="com.iflytek.facedemo.passaty">
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="60dp"
+        android:layout_height="20dp"
+        android:layout_marginRight="26dp"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/image"
+        android:textSize="20dp"
+        android:layout_alignParentRight="true" />
+<com.iflytek.facedemo.view.MyGifView
+    android:id="@+id/image"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/showname"
+        android:layout_marginBottom="100dp"
+        android:textSize="30dp"
+        android:layout_above="@+id/tiaochu"
+   />
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/tiaochu"
+    android:layout_gravity="right"
+    android:id="@+id/tiaochu"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    android:layout_marginRight="53dp"
+    android:layout_marginBottom="46dp" />
+
+</RelativeLayout>

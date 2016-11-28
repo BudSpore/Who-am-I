@@ -1,0 +1,946 @@
+[
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f1.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\f1.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuce.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\zhuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_photo.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\no_photo.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator_focused.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\page_indicator_focused.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator_unfocused.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s2_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\s2_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ss.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\ss.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s2.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\s2.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wenzizi.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\wenzizi.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f3.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\f3.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuce.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\zhuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joinus.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\joinus.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_right_m.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_right_m.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wenzi.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\wenzi.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuce.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\zhuce.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiaochu.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\tiaochu.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_left_m.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_left_m.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\start.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queren.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\queren.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_photo.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\no_photo.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback3.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback3.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing6.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing6.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s1_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\s1_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joinus.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\joinus.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f2_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\f2_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suoping.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\suoping.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s2.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\s2.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f3.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\f3.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f2_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\f2_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wenzi.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\wenzi.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f1.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\f1.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_btn_pressed.9.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start2.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\start2.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s4.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\s4.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suotoudl.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\suotoudl.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_right.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_right.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing3.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\reg_.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_left_m.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_left_m.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing3.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing3.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_btn_nor.9.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_btn_nor.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing2.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing2.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator_focused.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\page_indicator_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start2_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\start2_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuyin.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\yuyin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f3_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\f3_.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing6.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing6.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\reg_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s2.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\s2.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\start.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing3.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing3.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start2_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\start2_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suoping.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\suoping.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ss.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\ss.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s4_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\s4_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suotoudl.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\suotoudl.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f1_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\f1_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_left.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_left.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s3.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\s3.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing4.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing4.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s1_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\s1_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuyin.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\yuyin.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\flower.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_right_m.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_right_m.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback2.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback2.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\reg.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start1_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\start1_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\start.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\reg_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback1.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start1.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\start1.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s4.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\s4.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_left_m.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_left_m.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s3_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\s3_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s4.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\s4.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuyindl.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\yuyindl.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f1.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\f1.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback3.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiangjiao.gif",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\xiangjiao.gif"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s1.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\s1.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuyindl.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\yuyindl.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_photo.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\no_photo.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_right_m.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_right_m.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainbeijing.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\mainbeijing.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing1.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing1.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator_unfocused.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start1.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\start1.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f3_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\f3_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ss.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\ss.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f3.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\f3.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_bg.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_bg.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\flower.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator_focused.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\page_indicator_focused.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f1_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\f1_.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start2.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\start2.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing4.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suotoudl.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\suotoudl.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joinus_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\joinus_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_bg.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_bg.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainbeijing.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\mainbeijing.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s3.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\s3.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback3.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback3.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing5.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing5.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queren.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\queren.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_left.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_left.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\start.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\renlian.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\renlian.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\renlian.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\renlian.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wenzizi.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\wenzizi.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_right.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_right.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiangjiao.gif",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\xiangjiao.gif"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start2_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\start2_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_right_m.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_right_m.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\reg.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator_unfocused.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start1_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\start1_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing4.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_right.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_right.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuyin.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\yuyin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing5.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing5.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\renlian.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\renlian.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiaochu.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\tiaochu.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s1.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\s1.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing6.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing6.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joinus_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\joinus_.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s3.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\s3.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start1_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\start1_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiaochu.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\tiaochu.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_photo.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\no_photo.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s3_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\s3_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s4_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\s4_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s4.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\s4.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s1.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\s1.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_bg.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_bg.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_btn_nor.9.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_btn_nor.9.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f2_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\f2_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing2.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s3_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\s3_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suotoudl.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\suotoudl.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start1.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\start1.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wenzi.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\wenzi.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiangjiao.gif",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\xiangjiao.gif"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queren.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\queren.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_btn_nor.9.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_btn_nor.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\flower.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start1_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\start1_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s4_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\s4_.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s4_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\s4_.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_left.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_left.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing2.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing2.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s2.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\s2.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f2.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\f2.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wenzizi.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\wenzizi.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_left.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_left.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f2.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\f2.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joinus.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\joinus.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback2.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback2.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f2.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\f2.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\renlian.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\renlian.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_btn_pressed.9.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback2.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback2.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f3_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\f3_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s2_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\s2_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback2.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback2.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start2.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\start2.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ss.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\ss.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuyin.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\yuyin.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_left_m.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_left_m.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s3_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\s3_.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_btn_nor.9.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_btn_nor.9.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing2.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing2.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f3.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\f3.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\reg.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainbeijing.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\mainbeijing.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback1.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback1.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_btn_pressed.9.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\reg_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start2.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\start2.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing3.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing3.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s1_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\s1_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing1.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing1.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_bg.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_bg.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback3.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuyindl.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\yuyindl.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queren.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\queren.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f1.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\f1.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wenzizi.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\wenzizi.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suoping.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\suoping.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suoping.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\suoping.jpg"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s1.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\s1.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f3_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\f3_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joinus.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\joinus.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zhuce.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\zhuce.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f1_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\f1_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator_focused.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\page_indicator_focused.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing6.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing6.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback1.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s1_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\s1_.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiaochu.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\tiaochu.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reg.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\reg.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing1.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing1.jpg"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start1.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\start1.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainbeijing.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\mainbeijing.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuyindl.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\yuyindl.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wenzi.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\wenzi.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_btn_pressed.9.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator_unfocused.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f2_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\f2_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newback1.jpg",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\newback1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing1.jpg",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing1.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f1_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\f1_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whatsnew_right.jpg",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\whatsnew_right.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s2_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\s2_.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s2_.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\s2_.png"
+    },
+    {
+        "merged": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f2.png",
+        "source": "C:\\Users\\Russell Ping\\Desktop\\FaceDemo11\\app\\src\\main\\res\\drawable\\f2.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing5.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing5.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\flower.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joinus_.png",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\joinus_.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s3.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\s3.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start2_.png",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\start2_.png"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "D:\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiangjiao.gif",
+        "source": "D:\\FaceDemo11\\app\\src\\main\\res\\drawable\\xiangjiao.gif"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing5.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing5.png"
+    },
+    {
+        "merged": "D:\\4\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing4.jpg",
+        "source": "D:\\4\\FaceDemo11\\app\\src\\main\\res\\drawable\\beijing4.jpg"
+    },
+    {
+        "merged": "D:\\6\\FaceDemo11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joinus_.png",
+        "source": "D:\\6\\FaceDemo11\\app\\src\\main\\res\\drawable\\joinus_.png"
+    }
+]
